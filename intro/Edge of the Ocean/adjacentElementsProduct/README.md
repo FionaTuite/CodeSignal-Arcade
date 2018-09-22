@@ -9,7 +9,7 @@ adjacentElementsProduct(inputArray) = 21.
 
 **Input/Output**
 
-* **[time limit] 4000ms **
+* **[time limit] 4000ms**
 
 * **[input] array.integer inputArray** 
   An array of integers containing at least two elements. 
@@ -18,4 +18,4 @@ Guaranteed constraints:
   `2 ≤ inputArray.length ≤ 10, `
   `-1000 ≤ inputArray[i] ≤ 1000.`
 
-* [output] integer <br > The largest product of adjacent elements.
+**[output] integer <br > The largest product of adjacent elements.**
